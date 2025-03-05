@@ -1,0 +1,5 @@
+\usepackage{ verbatim } 
+\usepackage{ article }
+\begin{ document }
+  $ H = - \sum P _ i \log P _ i $
+\end{ document }
