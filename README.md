@@ -1,4 +1,6 @@
-This is just a practice Pages.
-thank you for reading it.
+< header >
+  This is just a practice Pages.
+  thank you for reading it.
 
-I have a friend named Wu Jiwang
+  I have a friend named Wu Jiwang
+< footer >
